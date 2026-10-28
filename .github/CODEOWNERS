@@ -1,0 +1,7 @@
+# Code owners for the UHMRS case-study repository.
+# A code owner must review every pull request into main
+# (docs/CHANGE_CONTROL_POLICY.md, rule 2).
+
+*                       @SolveMMG
+/docs/                  @SolveMMG
+/.github/               @SolveMMG
