@@ -8,6 +8,7 @@ required=(
   docs/CHANGE_CONTROL_POLICY.md
   .github/CODEOWNERS
   .github/pull_request_template.md
+  docs/CHANGE_REQUESTS.md
 )
 
 status=0
